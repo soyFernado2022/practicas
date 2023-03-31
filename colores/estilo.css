@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  }
+  div{
+    width: 100px;
+    height: 100px;
+    border: 2px solid yellow;
+    background: red;
+    margin: 10px;
+  }
+  #color2{
+    text-align: center;
+    background: yellow;
+    color: blue;
+    border: 2px dashed purple;
+  }
+  .color3{
+    text-align: center;
+    background: #FF0ABC;
+    color: #FFFFFF;
+    border: 2px dashed #CCFF33;
+  }
+  #color4{
+     text-align: center;
+    background: #C33;
+    color: #9F9;
+    border: 2px dashed #969;
+  }
+  #color5{
+    text-align: center;
+    background: rgb(22,160,133);
+    color: rgb(40, 116, 166);
+    border: 2px dashed rgb(123, 36,28 );
+  }
+  #color6{
+  text-align: center;
+    background: rgb(22%,160%,133%);
+    color: rgb(20%, 20%, 166%);
+    border: 2px dashed rgb(123%, 40%,28% );
+  }
+  #color7{
+  text-align: center;
+    background: linear-gradient(red,black);
+  }
+  #color8{
+  text-align: center;
+    background: rgb(10,10,10,0.2);
+  }
+  #color9{
+  text-align: center;
+    background: linear-gradient(to right,red,yellow);
+  }
+  #color10{
+  text-align: center;
+    background: linear-gradient(180deg,red,orange,yellow,green,blue,indigo,violet);
+  }
+  body{
+    background: linear-gradient(blue,red);
+  }
+  h1{
+    background: linear-gradient(yellow,blue);
+    -webkit-background-clip:text;
+    color:transparent;
+  }
+  

@@ -1,0 +1,99 @@
+*{
+    margin:0px;
+    padding:0px
+  }
+  div{
+    width:100px;
+    height:100px;
+    border:2px solid yellow;
+    background:blue;
+    margin:10px;
+  }
+  #color1{
+    text-align:center;
+    background:blue ;
+    color:lime ;
+    border:2px dashed gold;
+    width:2in; 
+    height:2in;
+  }
+  #color2{
+    text-align:center;
+    background:blue ;
+    color:lime ;
+    border:2px dashed gold ;
+    width:3cm;
+    height:3cm;
+  }
+   .color3{
+     text-align:center;
+    background:blue ;
+    color:lime;
+    border:2px dashed gold ;
+    width:4mm;
+    height:4mm;
+   }
+   #color4{
+    text-align:center;
+    background:blue;
+    color:lime ;
+    border:2px dashed gold;
+    width:5pt;
+    height:5pt;
+  }
+   #color5{
+   text-align:center;
+   background:blue;
+   color:lime;
+   border:2px dashed gold;
+   width:6pc;
+   height:6pc;
+   }
+   #color6{
+    text-align:center;
+    background:blue;
+    color:lime;
+    border:2px dashed gold ;
+    width:7em;
+    height:7em;
+  }
+   #color7{
+     text-align:center;
+    background:blue;
+    color:lime;
+    border:2px dashed gold ;
+    width:8ex;
+    height:8ex;
+   }
+   #color8{
+    text-align:center;
+    background:blue;
+    color:lime;
+    border:2px dashed gold ;
+    width:9px;
+    height:9px;
+  }
+   #color9{
+   text-align:center;
+   background:blue;
+   color:lime;
+   border:2px dashed gold;
+   width:10%;
+   height:10%;
+   }
+    #color10{
+   text-align:center;
+   background:blue;
+   color:lime;
+   border:2px dashed gold;
+   }
+   body{
+     background:linear-gradient(lime,red);
+     font-size: 20px;
+   }
+   h1{
+     background:linear-gradient(red,yellow);
+     -webkit-background-clip:text;
+     color:transparent;
+   }
+  
